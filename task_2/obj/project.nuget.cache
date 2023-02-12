@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "wHQt2bemk2lkDSApRZdnm3n83bc3rcipqbWT8JryIRQtzuduyUC9J80P921jhms5LIG6uccQ90xC8F+vYtZtnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxbe\\Desktop\\GeekBr\\C#_education\\c#_HomeWork_1\\task_2\\task_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxbe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://api.nuget.org/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
